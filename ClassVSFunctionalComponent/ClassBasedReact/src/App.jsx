@@ -22,6 +22,7 @@ class App extends Component {
       console.log('First value changed');
     }
   }
+  //lifecycle method like componentDidMount, componentDidUpdate, componentWillUnmount
   componentDidMount() {
     console.log('data received');
   }
