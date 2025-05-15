@@ -49,7 +49,7 @@
 
 
 //useQuery will run only depend key change again key with same input useQuery will not run again
-
+  //useQuery(queryKey,apicallfunction)
 import React, { useState } from "react";
 import { useQuery } from "react-query";
 
